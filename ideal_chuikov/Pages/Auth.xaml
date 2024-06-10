@@ -12,11 +12,11 @@
         
         <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center">
             
-            <TextBlock FontSize="25">Авторизация</TextBlock>
-            <TextBlock HorizontalAlignment="Center">Логин</TextBlock>
-            <TextBox Name="Login"></TextBox>
-            <TextBlock HorizontalAlignment="Center">Пароль</TextBlock>
-            <PasswordBox Name="Password"></PasswordBox>
+            <TextBlock FontSize="40">Авторизация</TextBlock>
+            <TextBlock FontSize="30" HorizontalAlignment="Center">Логин</TextBlock>
+            <TextBox Height="25" Name="Login"></TextBox>
+            <TextBlock FontSize="30" HorizontalAlignment="Center">Пароль</TextBlock>
+            <PasswordBox Height="25" Name="Password"></PasswordBox>
             
             <Button Click="Vxod" Name="vxodbnt">Войти</Button>
         </StackPanel>
