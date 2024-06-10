@@ -11,6 +11,8 @@
     <Property Name="manufacturer" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
     <Property Name="price" Type="Int32" Nullable="false" />
     <Property Name="discount" Type="Int32" />
+    <Property Name="url" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="quantity" Type="Int32" />
     <NavigationProperty Name="sostav" Relationship="Self.FK_sostav_merch" FromRole="merch" ToRole="sostav" />
   </EntityType>
   <EntityType Name="orders">
@@ -56,6 +58,16 @@
     <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
     <Property Name="status_name" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
     <NavigationProperty Name="orders" Relationship="Self.FK_orders_status" FromRole="status" ToRole="orders" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="String" MaxLength="128" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="principal_id" Type="Int32" Nullable="false" />
+    <Property Name="diagram_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="version" Type="Int32" />
+    <Property Name="definition" Type="Binary" MaxLength="Max" FixedLength="false" />
   </EntityType>
   <EntityType Name="type_user">
     <Key>
@@ -154,6 +166,7 @@
     <EntitySet Name="point" EntityType="Self.point" />
     <EntitySet Name="sostav" EntityType="Self.sostav" />
     <EntitySet Name="status" EntityType="Self.status" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" />
     <EntitySet Name="type_user" EntityType="Self.type_user" />
     <EntitySet Name="users" EntityType="Self.users" />
     <AssociationSet Name="FK_sostav_merch" Association="Self.FK_sostav_merch">

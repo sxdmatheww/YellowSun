@@ -19,6 +19,11 @@ namespace ideal_chuikov.Models
             : base("name=yellowsEntities2")
         {
         }
+    
+        protected override void OnModelCreating(DbModelBuilder modelBuilder)
+        {
+            throw new UnintentionalCodeFirstException();
+        }
         public static yellowsEntities2 context;
         public static yellowsEntities2 GetContext()
         {
@@ -28,16 +33,12 @@ namespace ideal_chuikov.Models
         }
 
 
-        protected override void OnModelCreating(DbModelBuilder modelBuilder)
-        {
-            throw new UnintentionalCodeFirstException();
-        }
-    
         public virtual DbSet<merch> merch { get; set; }
         public virtual DbSet<orders> orders { get; set; }
         public virtual DbSet<point> point { get; set; }
         public virtual DbSet<sostav> sostav { get; set; }
         public virtual DbSet<status> status { get; set; }
+        public virtual DbSet<sysdiagrams> sysdiagrams { get; set; }
         public virtual DbSet<type_user> type_user { get; set; }
         public virtual DbSet<users> users { get; set; }
     }

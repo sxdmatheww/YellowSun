@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:ideal_chuikov"
         mc:Ignorable="d"
-        Title="Учёт товаров ''Жёлтое солнце''" MinHeight="450" MinWidth="800">
+        Title="Учёт товаров ''Жёлтое солнце''" MinHeight="650" MinWidth="1500">
     <Grid ShowGridLines="True">
         <Grid.RowDefinitions>
             <RowDefinition Height="100" ></RowDefinition>
@@ -16,14 +16,15 @@
         <Image Source="/photo/logo.png" Grid.Row="0" HorizontalAlignment="Left" Height="100" Width="200" />
         <TextBlock FontSize="32" HorizontalAlignment="Center" Foreground="#787878" VerticalAlignment="Center"  
                    FontFamily="Arial Black" Grid.Row="0">Фитнес-клуб "Жёлтое солнце"</TextBlock>
-        <StackPanel Grid.Row="0">
-            <Button HorizontalAlignment="Right" Name="autobnt" Click="Autorization" Width="100">Авторизация</Button>
-            <Button HorizontalAlignment="Right" Name="vih" Click="Vihod" Width="100">Выход</Button>
+        <StackPanel Grid.Row="0" Orientation="Horizontal" HorizontalAlignment="Right" VerticalAlignment="Center">
+            <Button Click="OpenSite" Width="100" Margin="5">Сайт</Button>
+            <Button Name="autobnt" Click="Autorization" Width="100" Margin="5">Авторизация</Button>
+            <Button Name="vih" Click="Vihod" Width="100" Margin="5">Выход</Button>
         </StackPanel>
         <TextBlock Grid.Row="1" >
                  <Image Source="/photo/fon.png" Stretch="Fill" />
         </TextBlock>
         <Frame Grid.Row="1" Name="MainFrame" Navigated="MainFrame_Navigated"></Frame>
-        <TextBlock x:Name="TimerTextBlock" FontSize="20" HorizontalAlignment="Center" VerticalAlignment="Bottom" Grid.Row="0"/>
+
     </Grid>
 </Window>

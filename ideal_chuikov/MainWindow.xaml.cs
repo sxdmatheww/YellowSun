@@ -2,6 +2,7 @@
 using ideal_chuikov.Pages;
 using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.Linq;
 using System.Net;
 using System.Text;
@@ -41,6 +42,14 @@ namespace ideal_chuikov
         private void MainFrame_Navigated(object sender, NavigationEventArgs e)
         {
 
+        }
+        private void OpenSite(object sender, RoutedEventArgs e)
+        {
+            Process.Start(new ProcessStartInfo
+            {
+                FileName = "https://zoon.ru/msk/fitness/fitnes-klub_zheltoe_solntse_v_oktyabrskom/",
+                UseShellExecute = true
+            });
         }
     }
 }

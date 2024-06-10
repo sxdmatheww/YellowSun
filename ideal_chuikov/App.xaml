@@ -8,10 +8,11 @@
             <!-- Цвет текста кнопки -->
             <Setter Property="Background" Value="#696969" />
             <Setter Property="Foreground" Value="White" />
+            
             <!-- Новый шрифт -->
             <Setter Property="FontFamily" Value="Comic Sans MS" />
-            <Setter Property="Width" Value="80" />
-            <Setter Property="Height" Value="30" />
+            <Setter Property="Width" Value="120" />
+            <Setter Property="Height" Value="40" />
             <Setter Property="Margin" Value="10" />
             <Setter Property="FontSize" Value="16" />
         </Style>
@@ -39,17 +40,28 @@
             <Setter Property="Margin" Value="10" />
         </Style>
 
+        <!--Редактировать/удалить-->
         <Style TargetType="{x:Type TextBlock}">
             <Setter Property="FontFamily" Value="Sans" />
             <Setter Property="Foreground" Value="White" />
         </Style>
 
+        <!--Описание товара-->
         <Style TargetType="TextBlock" x:Key="small">
-            <Setter Property="FontSize" Value="12"></Setter>
+            <Setter Property="FontSize" Value="15"></Setter>
+            <Setter Property="Foreground" Value="Black"></Setter>
         </Style>
         <Style TargetType="TextBlock" x:Key="large">
+            <Setter Property="FontSize" Value="30"></Setter>
+            <Setter Property="Foreground" Value="#964B00"></Setter>
+        </Style>
+        <Style TargetType="TextBlock" x:Key="kolvo">
             <Setter Property="FontSize" Value="20"></Setter>
-            <Setter Property="Foreground" Value="#B8860B"></Setter>
+            <Setter Property="Foreground" Value="#964B00"></Setter>
+        </Style>
+        <Style TargetType="TextBlock" x:Key="skidka">
+            <Setter Property="FontSize" Value="35"></Setter>
+            <Setter Property="Foreground" Value="Red"></Setter>
         </Style>
     </Application.Resources>
 </Application>

@@ -60,7 +60,9 @@
                 <DataGridTemplateColumn Width="1*">
                     <DataGridTemplateColumn.CellTemplate>
                         <DataTemplate>
-                            <TextBlock VerticalAlignment="Center" HorizontalAlignment="Right" Text="{Binding discount, StringFormat={}скидка: {0:0.##}%}" ></TextBlock>
+                            
+                            <TextBlock Style="{StaticResource large}" VerticalAlignment="Bottom" HorizontalAlignment="Left" Text="{Binding discount, StringFormat={}скидка: {0:0.##}%, FallbackValue=''}"></TextBlock>
+
                         </DataTemplate>
                     </DataGridTemplateColumn.CellTemplate>
                 </DataGridTemplateColumn>

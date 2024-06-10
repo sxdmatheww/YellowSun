@@ -11,18 +11,22 @@
     <Grid>
         <WrapPanel Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Center">
             <StackPanel Margin="10">
-                <TextBlock Margin="0 0 0 10">Название</TextBlock>
-                <TextBlock Margin="0 0 0 10">Описание</TextBlock>
-                <TextBlock Margin="0 0 0 10">Производитель</TextBlock>
-                <TextBlock Margin="0 0 0 10">Цена</TextBlock>
-                <TextBlock Margin="0 0 0 10">Скидка</TextBlock>
+                <TextBlock Margin="0 0 0 14">Название</TextBlock>
+                <TextBlock Margin="0 0 0 14">Вес</TextBlock>
+                <TextBlock Margin="0 0 0 14">Вкус</TextBlock>
+                <TextBlock Margin="0 0 0 14">Количество</TextBlock>
+                <TextBlock Margin="0 0 0 14">Цена</TextBlock>
+                <TextBlock Margin="0 0 0 14">Скидка</TextBlock>
+                <TextBlock Margin="0 0 0 13">Ссылка</TextBlock>
             </StackPanel>
             <StackPanel Margin="10">
                 <TextBox Margin="0 0 0 10" Text="{Binding name}"></TextBox>
                 <TextBox Margin="0 0 0 10" Text="{Binding dexcription}"></TextBox>
                 <TextBox Margin="0 0 0 10" Text="{Binding manufacturer}"></TextBox>
+                <TextBox Margin="0 0 0 10" Text="{Binding quantity}"></TextBox>
                 <TextBox Margin="0 0 0 10" Text="{Binding price}"></TextBox>
                 <TextBox Margin="0 0 0 10" Text="{Binding discount}"></TextBox>
+                <TextBox MaxWidth="130" Margin="0 0 0 10" Text="{Binding url}"></TextBox>
                 <Button Click="Foto" Width="auto">Выбрать фото</Button>
                 <Image Width="100" Name="PreviewImage" Source="{Binding photo}"></Image>
                 <Button Width="auto" Click="Save">Сохранить</Button>

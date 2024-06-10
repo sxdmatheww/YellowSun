@@ -11,7 +11,8 @@ namespace ideal_chuikov.Models
 {
     using System;
     using System.Collections.Generic;
-    
+    using System.ComponentModel;
+
     public partial class merch
     {
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2214:DoNotCallOverridableMethodsInConstructors")]
@@ -25,10 +26,70 @@ namespace ideal_chuikov.Models
         public string name { get; set; }
         public string dexcription { get; set; }
         public string manufacturer { get; set; }
-        public int price { get; set; }
-        public Nullable<int> discount { get; set; }
-    
+        private int _price;
+        public int price
+        {
+            get { return _price; }
+            set
+            {
+                if (_price != value)
+                {
+                    _price = value;
+                    OnPropertyChanged(nameof(price));
+                    OnPropertyChanged(nameof(newcost)); // Обновляем newcost при изменении цены
+                }
+            }
+        }
+
+        private int? _discount;
+        public int? discount
+        {
+            get { return _discount; }
+            set
+            {
+                if (_discount != value)
+                {
+                    _discount = value;
+                    OnPropertyChanged(nameof(discount));
+                    OnPropertyChanged(nameof(newcost)); // Обновляем newcost при изменении скидки
+                }
+            }
+        }
+
+        public string url { get; set; }
+
+        private int? _quantity;
+        public int? quantity
+        {
+            get { return _quantity; }
+            set
+            {
+                if (_quantity != value)
+                {
+                    _quantity = value;
+                    OnPropertyChanged(nameof(quantity));
+                }
+            }
+        }
+
+        public decimal newcost
+        {
+            get
+            {
+                return discount.HasValue ? price - (price * (decimal)(discount.Value / 100.0)) : price;
+            }
+        }
+
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
         public virtual ICollection<sostav> sostav { get; set; }
+
+        public event PropertyChangedEventHandler PropertyChanged;
+
+        protected void OnPropertyChanged(string propertyName)
+        {
+            PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(propertyName));
+        }
+
+
     }
 }

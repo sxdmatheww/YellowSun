@@ -297,3 +297,218 @@ C:\Users\matve\Desktop\ideal_chuikov\ideal_chuikov\obj\Debug\ideal_chuikov.Prope
 C:\Users\matve\Desktop\ideal_chuikov\ideal_chuikov\obj\Debug\ideal_chuikov.csproj.GenerateResource.cache
 C:\Users\matve\Desktop\ideal_chuikov\ideal_chuikov\obj\Debug\ideal_chuikov.csproj.CoreCompileInputs.cache
 C:\Users\matve\Desktop\ideal_chuikov\ideal_chuikov\obj\Debug\ideal_chuikov.csproj.CopyComplete
+C:\Users\matve\Desktop\Без кнопок\ideal_chuikov\ideal_chuikov\obj\Debug\ideal_chuikov.csproj.AssemblyReference.cache
+C:\Users\matve\Desktop\Без кнопок\ideal_chuikov\ideal_chuikov\obj\Debug\MainWindow.g.cs
+C:\Users\matve\Desktop\Без кнопок\ideal_chuikov\ideal_chuikov\obj\Debug\OneOrder.g.cs
+C:\Users\matve\Desktop\Без кнопок\ideal_chuikov\ideal_chuikov\obj\Debug\OrdersWindow.g.cs
+C:\Users\matve\Desktop\Без кнопок\ideal_chuikov\ideal_chuikov\obj\Debug\Pages\Auth.g.cs
+C:\Users\matve\Desktop\Без кнопок\ideal_chuikov\ideal_chuikov\obj\Debug\Pages\EditMerch.g.cs
+C:\Users\matve\Desktop\Без кнопок\ideal_chuikov\ideal_chuikov\obj\Debug\Pages\EditOrders.g.cs
+C:\Users\matve\Desktop\Без кнопок\ideal_chuikov\ideal_chuikov\obj\Debug\Pages\merches.g.cs
+C:\Users\matve\Desktop\Без кнопок\ideal_chuikov\ideal_chuikov\obj\Debug\Pages\OrdersPages.g.cs
+C:\Users\matve\Desktop\Без кнопок\ideal_chuikov\ideal_chuikov\obj\Debug\Pages\Registration.g.cs
+C:\Users\matve\Desktop\Без кнопок\ideal_chuikov\ideal_chuikov\obj\Debug\Pages\RootMerch.g.cs
+C:\Users\matve\Desktop\Без кнопок\ideal_chuikov\ideal_chuikov\obj\Debug\Pages\TalonOrder.g.cs
+C:\Users\matve\Desktop\Без кнопок\ideal_chuikov\ideal_chuikov\obj\Debug\App.g.cs
+C:\Users\matve\Desktop\Без кнопок\ideal_chuikov\ideal_chuikov\obj\Debug\ideal_chuikov_Content.g.cs
+C:\Users\matve\Desktop\Без кнопок\ideal_chuikov\ideal_chuikov\obj\Debug\ideal_chuikov_MarkupCompile.cache
+C:\Users\matve\Desktop\Без кнопок\ideal_chuikov\ideal_chuikov\obj\Debug\ideal_chuikov_MarkupCompile.lref
+C:\Users\matve\Desktop\Без кнопок\ideal_chuikov\ideal_chuikov\obj\Debug\ideal_chuikov.exe
+C:\Users\matve\Desktop\Без кнопок\ideal_chuikov\ideal_chuikov\obj\Debug\ideal_chuikov.pdb
+C:\Users\matve\Desktop\Без кнопок\ideal_chuikov\ideal_chuikov\bin\Debug\ideal_chuikov.exe.config
+C:\Users\matve\Desktop\Без кнопок\ideal_chuikov\ideal_chuikov\bin\Debug\ideal_chuikov.exe
+C:\Users\matve\Desktop\Без кнопок\ideal_chuikov\ideal_chuikov\bin\Debug\ideal_chuikov.pdb
+C:\Users\matve\Desktop\Без кнопок\ideal_chuikov\ideal_chuikov\bin\Debug\EntityFramework.dll
+C:\Users\matve\Desktop\Без кнопок\ideal_chuikov\ideal_chuikov\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\matve\Desktop\Без кнопок\ideal_chuikov\ideal_chuikov\bin\Debug\EntityFramework.xml
+C:\Users\matve\Desktop\Без кнопок\ideal_chuikov\ideal_chuikov\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\matve\Desktop\Без кнопок\ideal_chuikov\ideal_chuikov\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\matve\Desktop\Без кнопок\ideal_chuikov\ideal_chuikov\obj\Debug\App.baml
+C:\Users\matve\Desktop\Без кнопок\ideal_chuikov\ideal_chuikov\obj\Debug\MainWindow.baml
+C:\Users\matve\Desktop\Без кнопок\ideal_chuikov\ideal_chuikov\obj\Debug\OneOrder.baml
+C:\Users\matve\Desktop\Без кнопок\ideal_chuikov\ideal_chuikov\obj\Debug\OrdersWindow.baml
+C:\Users\matve\Desktop\Без кнопок\ideal_chuikov\ideal_chuikov\obj\Debug\Pages\Auth.baml
+C:\Users\matve\Desktop\Без кнопок\ideal_chuikov\ideal_chuikov\obj\Debug\Pages\EditMerch.baml
+C:\Users\matve\Desktop\Без кнопок\ideal_chuikov\ideal_chuikov\obj\Debug\Pages\EditOrders.baml
+C:\Users\matve\Desktop\Без кнопок\ideal_chuikov\ideal_chuikov\obj\Debug\Pages\merches.baml
+C:\Users\matve\Desktop\Без кнопок\ideal_chuikov\ideal_chuikov\obj\Debug\Pages\OrdersPages.baml
+C:\Users\matve\Desktop\Без кнопок\ideal_chuikov\ideal_chuikov\obj\Debug\Pages\Registration.baml
+C:\Users\matve\Desktop\Без кнопок\ideal_chuikov\ideal_chuikov\obj\Debug\Pages\RootMerch.baml
+C:\Users\matve\Desktop\Без кнопок\ideal_chuikov\ideal_chuikov\obj\Debug\Pages\TalonOrder.baml
+C:\Users\matve\Desktop\Без кнопок\ideal_chuikov\ideal_chuikov\obj\Debug\ideal_chuikov.g.resources
+C:\Users\matve\Desktop\Без кнопок\ideal_chuikov\ideal_chuikov\obj\Debug\ideal_chuikov.Properties.Resources.resources
+C:\Users\matve\Desktop\Без кнопок\ideal_chuikov\ideal_chuikov\obj\Debug\ideal_chuikov.csproj.GenerateResource.cache
+C:\Users\matve\Desktop\Без кнопок\ideal_chuikov\ideal_chuikov\obj\Debug\ideal_chuikov.csproj.CoreCompileInputs.cache
+C:\Users\matve\Desktop\Без кнопок\ideal_chuikov\ideal_chuikov\obj\Debug\ideal_chuikov.csproj.CopyComplete
+C:\Users\matve\Desktop\Без кнопок\Новая папка (2)\ideal_chuikov\ideal_chuikov\bin\Debug\ideal_chuikov.exe.config
+C:\Users\matve\Desktop\Без кнопок\Новая папка (2)\ideal_chuikov\ideal_chuikov\bin\Debug\ideal_chuikov.exe
+C:\Users\matve\Desktop\Без кнопок\Новая папка (2)\ideal_chuikov\ideal_chuikov\bin\Debug\ideal_chuikov.pdb
+C:\Users\matve\Desktop\Без кнопок\Новая папка (2)\ideal_chuikov\ideal_chuikov\bin\Debug\EntityFramework.dll
+C:\Users\matve\Desktop\Без кнопок\Новая папка (2)\ideal_chuikov\ideal_chuikov\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\matve\Desktop\Без кнопок\Новая папка (2)\ideal_chuikov\ideal_chuikov\bin\Debug\EntityFramework.xml
+C:\Users\matve\Desktop\Без кнопок\Новая папка (2)\ideal_chuikov\ideal_chuikov\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\matve\Desktop\Без кнопок\Новая папка (2)\ideal_chuikov\ideal_chuikov\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\matve\Desktop\Без кнопок\Новая папка (2)\ideal_chuikov\ideal_chuikov\obj\Debug\ideal_chuikov.csproj.AssemblyReference.cache
+C:\Users\matve\Desktop\Без кнопок\Новая папка (2)\ideal_chuikov\ideal_chuikov\obj\Debug\MainWindow.g.cs
+C:\Users\matve\Desktop\Без кнопок\Новая папка (2)\ideal_chuikov\ideal_chuikov\obj\Debug\OneOrder.g.cs
+C:\Users\matve\Desktop\Без кнопок\Новая папка (2)\ideal_chuikov\ideal_chuikov\obj\Debug\OrdersWindow.g.cs
+C:\Users\matve\Desktop\Без кнопок\Новая папка (2)\ideal_chuikov\ideal_chuikov\obj\Debug\Pages\Auth.g.cs
+C:\Users\matve\Desktop\Без кнопок\Новая папка (2)\ideal_chuikov\ideal_chuikov\obj\Debug\Pages\EditMerch.g.cs
+C:\Users\matve\Desktop\Без кнопок\Новая папка (2)\ideal_chuikov\ideal_chuikov\obj\Debug\Pages\EditOrders.g.cs
+C:\Users\matve\Desktop\Без кнопок\Новая папка (2)\ideal_chuikov\ideal_chuikov\obj\Debug\Pages\merches.g.cs
+C:\Users\matve\Desktop\Без кнопок\Новая папка (2)\ideal_chuikov\ideal_chuikov\obj\Debug\Pages\OrdersPages.g.cs
+C:\Users\matve\Desktop\Без кнопок\Новая папка (2)\ideal_chuikov\ideal_chuikov\obj\Debug\Pages\Registration.g.cs
+C:\Users\matve\Desktop\Без кнопок\Новая папка (2)\ideal_chuikov\ideal_chuikov\obj\Debug\Pages\RootMerch.g.cs
+C:\Users\matve\Desktop\Без кнопок\Новая папка (2)\ideal_chuikov\ideal_chuikov\obj\Debug\Pages\TalonOrder.g.cs
+C:\Users\matve\Desktop\Без кнопок\Новая папка (2)\ideal_chuikov\ideal_chuikov\obj\Debug\App.g.cs
+C:\Users\matve\Desktop\Без кнопок\Новая папка (2)\ideal_chuikov\ideal_chuikov\obj\Debug\ideal_chuikov_Content.g.cs
+C:\Users\matve\Desktop\Без кнопок\Новая папка (2)\ideal_chuikov\ideal_chuikov\obj\Debug\ideal_chuikov_MarkupCompile.cache
+C:\Users\matve\Desktop\Без кнопок\Новая папка (2)\ideal_chuikov\ideal_chuikov\obj\Debug\ideal_chuikov_MarkupCompile.lref
+C:\Users\matve\Desktop\Без кнопок\Новая папка (2)\ideal_chuikov\ideal_chuikov\obj\Debug\App.baml
+C:\Users\matve\Desktop\Без кнопок\Новая папка (2)\ideal_chuikov\ideal_chuikov\obj\Debug\MainWindow.baml
+C:\Users\matve\Desktop\Без кнопок\Новая папка (2)\ideal_chuikov\ideal_chuikov\obj\Debug\OneOrder.baml
+C:\Users\matve\Desktop\Без кнопок\Новая папка (2)\ideal_chuikov\ideal_chuikov\obj\Debug\OrdersWindow.baml
+C:\Users\matve\Desktop\Без кнопок\Новая папка (2)\ideal_chuikov\ideal_chuikov\obj\Debug\Pages\Auth.baml
+C:\Users\matve\Desktop\Без кнопок\Новая папка (2)\ideal_chuikov\ideal_chuikov\obj\Debug\Pages\EditMerch.baml
+C:\Users\matve\Desktop\Без кнопок\Новая папка (2)\ideal_chuikov\ideal_chuikov\obj\Debug\Pages\EditOrders.baml
+C:\Users\matve\Desktop\Без кнопок\Новая папка (2)\ideal_chuikov\ideal_chuikov\obj\Debug\Pages\merches.baml
+C:\Users\matve\Desktop\Без кнопок\Новая папка (2)\ideal_chuikov\ideal_chuikov\obj\Debug\Pages\OrdersPages.baml
+C:\Users\matve\Desktop\Без кнопок\Новая папка (2)\ideal_chuikov\ideal_chuikov\obj\Debug\Pages\Registration.baml
+C:\Users\matve\Desktop\Без кнопок\Новая папка (2)\ideal_chuikov\ideal_chuikov\obj\Debug\Pages\RootMerch.baml
+C:\Users\matve\Desktop\Без кнопок\Новая папка (2)\ideal_chuikov\ideal_chuikov\obj\Debug\Pages\TalonOrder.baml
+C:\Users\matve\Desktop\Без кнопок\Новая папка (2)\ideal_chuikov\ideal_chuikov\obj\Debug\ideal_chuikov.g.resources
+C:\Users\matve\Desktop\Без кнопок\Новая папка (2)\ideal_chuikov\ideal_chuikov\obj\Debug\ideal_chuikov.Properties.Resources.resources
+C:\Users\matve\Desktop\Без кнопок\Новая папка (2)\ideal_chuikov\ideal_chuikov\obj\Debug\ideal_chuikov.csproj.GenerateResource.cache
+C:\Users\matve\Desktop\Без кнопок\Новая папка (2)\ideal_chuikov\ideal_chuikov\obj\Debug\ideal_chuikov.csproj.CoreCompileInputs.cache
+C:\Users\matve\Desktop\Без кнопок\Новая папка (2)\ideal_chuikov\ideal_chuikov\obj\Debug\ideal_chuikov.csproj.CopyComplete
+C:\Users\matve\Desktop\Без кнопок\Новая папка (2)\ideal_chuikov\ideal_chuikov\obj\Debug\ideal_chuikov.exe
+C:\Users\matve\Desktop\Без кнопок\Новая папка (2)\ideal_chuikov\ideal_chuikov\obj\Debug\ideal_chuikov.pdb
+C:\Users\matve\Desktop\Без кнопок\Новая папка (2) — копия\ideal_chuikov\ideal_chuikov\bin\Debug\ideal_chuikov.exe.config
+C:\Users\matve\Desktop\Без кнопок\Новая папка (2) — копия\ideal_chuikov\ideal_chuikov\bin\Debug\ideal_chuikov.exe
+C:\Users\matve\Desktop\Без кнопок\Новая папка (2) — копия\ideal_chuikov\ideal_chuikov\bin\Debug\ideal_chuikov.pdb
+C:\Users\matve\Desktop\Без кнопок\Новая папка (2) — копия\ideal_chuikov\ideal_chuikov\bin\Debug\EntityFramework.dll
+C:\Users\matve\Desktop\Без кнопок\Новая папка (2) — копия\ideal_chuikov\ideal_chuikov\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\matve\Desktop\Без кнопок\Новая папка (2) — копия\ideal_chuikov\ideal_chuikov\bin\Debug\EntityFramework.xml
+C:\Users\matve\Desktop\Без кнопок\Новая папка (2) — копия\ideal_chuikov\ideal_chuikov\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\matve\Desktop\Без кнопок\Новая папка (2) — копия\ideal_chuikov\ideal_chuikov\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\matve\Desktop\Без кнопок\Новая папка (2) — копия\ideal_chuikov\ideal_chuikov\obj\Debug\ideal_chuikov.csproj.AssemblyReference.cache
+C:\Users\matve\Desktop\Без кнопок\Новая папка (2) — копия\ideal_chuikov\ideal_chuikov\obj\Debug\MainWindow.g.cs
+C:\Users\matve\Desktop\Без кнопок\Новая папка (2) — копия\ideal_chuikov\ideal_chuikov\obj\Debug\OneOrder.g.cs
+C:\Users\matve\Desktop\Без кнопок\Новая папка (2) — копия\ideal_chuikov\ideal_chuikov\obj\Debug\OrdersWindow.g.cs
+C:\Users\matve\Desktop\Без кнопок\Новая папка (2) — копия\ideal_chuikov\ideal_chuikov\obj\Debug\Pages\Auth.g.cs
+C:\Users\matve\Desktop\Без кнопок\Новая папка (2) — копия\ideal_chuikov\ideal_chuikov\obj\Debug\Pages\EditMerch.g.cs
+C:\Users\matve\Desktop\Без кнопок\Новая папка (2) — копия\ideal_chuikov\ideal_chuikov\obj\Debug\Pages\EditOrders.g.cs
+C:\Users\matve\Desktop\Без кнопок\Новая папка (2) — копия\ideal_chuikov\ideal_chuikov\obj\Debug\Pages\merches.g.cs
+C:\Users\matve\Desktop\Без кнопок\Новая папка (2) — копия\ideal_chuikov\ideal_chuikov\obj\Debug\Pages\OrdersPages.g.cs
+C:\Users\matve\Desktop\Без кнопок\Новая папка (2) — копия\ideal_chuikov\ideal_chuikov\obj\Debug\Pages\Registration.g.cs
+C:\Users\matve\Desktop\Без кнопок\Новая папка (2) — копия\ideal_chuikov\ideal_chuikov\obj\Debug\Pages\RootMerch.g.cs
+C:\Users\matve\Desktop\Без кнопок\Новая папка (2) — копия\ideal_chuikov\ideal_chuikov\obj\Debug\Pages\TalonOrder.g.cs
+C:\Users\matve\Desktop\Без кнопок\Новая папка (2) — копия\ideal_chuikov\ideal_chuikov\obj\Debug\App.g.cs
+C:\Users\matve\Desktop\Без кнопок\Новая папка (2) — копия\ideal_chuikov\ideal_chuikov\obj\Debug\ideal_chuikov_Content.g.cs
+C:\Users\matve\Desktop\Без кнопок\Новая папка (2) — копия\ideal_chuikov\ideal_chuikov\obj\Debug\ideal_chuikov_MarkupCompile.cache
+C:\Users\matve\Desktop\Без кнопок\Новая папка (2) — копия\ideal_chuikov\ideal_chuikov\obj\Debug\ideal_chuikov_MarkupCompile.lref
+C:\Users\matve\Desktop\Без кнопок\Новая папка (2) — копия\ideal_chuikov\ideal_chuikov\obj\Debug\App.baml
+C:\Users\matve\Desktop\Без кнопок\Новая папка (2) — копия\ideal_chuikov\ideal_chuikov\obj\Debug\MainWindow.baml
+C:\Users\matve\Desktop\Без кнопок\Новая папка (2) — копия\ideal_chuikov\ideal_chuikov\obj\Debug\OneOrder.baml
+C:\Users\matve\Desktop\Без кнопок\Новая папка (2) — копия\ideal_chuikov\ideal_chuikov\obj\Debug\OrdersWindow.baml
+C:\Users\matve\Desktop\Без кнопок\Новая папка (2) — копия\ideal_chuikov\ideal_chuikov\obj\Debug\Pages\Auth.baml
+C:\Users\matve\Desktop\Без кнопок\Новая папка (2) — копия\ideal_chuikov\ideal_chuikov\obj\Debug\Pages\EditMerch.baml
+C:\Users\matve\Desktop\Без кнопок\Новая папка (2) — копия\ideal_chuikov\ideal_chuikov\obj\Debug\Pages\EditOrders.baml
+C:\Users\matve\Desktop\Без кнопок\Новая папка (2) — копия\ideal_chuikov\ideal_chuikov\obj\Debug\Pages\merches.baml
+C:\Users\matve\Desktop\Без кнопок\Новая папка (2) — копия\ideal_chuikov\ideal_chuikov\obj\Debug\Pages\OrdersPages.baml
+C:\Users\matve\Desktop\Без кнопок\Новая папка (2) — копия\ideal_chuikov\ideal_chuikov\obj\Debug\Pages\Registration.baml
+C:\Users\matve\Desktop\Без кнопок\Новая папка (2) — копия\ideal_chuikov\ideal_chuikov\obj\Debug\Pages\RootMerch.baml
+C:\Users\matve\Desktop\Без кнопок\Новая папка (2) — копия\ideal_chuikov\ideal_chuikov\obj\Debug\Pages\TalonOrder.baml
+C:\Users\matve\Desktop\Без кнопок\Новая папка (2) — копия\ideal_chuikov\ideal_chuikov\obj\Debug\ideal_chuikov.g.resources
+C:\Users\matve\Desktop\Без кнопок\Новая папка (2) — копия\ideal_chuikov\ideal_chuikov\obj\Debug\ideal_chuikov.Properties.Resources.resources
+C:\Users\matve\Desktop\Без кнопок\Новая папка (2) — копия\ideal_chuikov\ideal_chuikov\obj\Debug\ideal_chuikov.csproj.GenerateResource.cache
+C:\Users\matve\Desktop\Без кнопок\Новая папка (2) — копия\ideal_chuikov\ideal_chuikov\obj\Debug\ideal_chuikov.csproj.CoreCompileInputs.cache
+C:\Users\matve\Desktop\Без кнопок\Новая папка (2) — копия\ideal_chuikov\ideal_chuikov\obj\Debug\ideal_chuikov.csproj.CopyComplete
+C:\Users\matve\Desktop\Без кнопок\Новая папка (2) — копия\ideal_chuikov\ideal_chuikov\obj\Debug\ideal_chuikov.exe
+C:\Users\matve\Desktop\Без кнопок\Новая папка (2) — копия\ideal_chuikov\ideal_chuikov\obj\Debug\ideal_chuikov.pdb
+C:\Users\matve\Desktop\Без кнопок\Новая папка (3) — копия\ideal_chuikov\ideal_chuikov\bin\Debug\ideal_chuikov.exe.config
+C:\Users\matve\Desktop\Без кнопок\Новая папка (3) — копия\ideal_chuikov\ideal_chuikov\bin\Debug\ideal_chuikov.exe
+C:\Users\matve\Desktop\Без кнопок\Новая папка (3) — копия\ideal_chuikov\ideal_chuikov\bin\Debug\ideal_chuikov.pdb
+C:\Users\matve\Desktop\Без кнопок\Новая папка (3) — копия\ideal_chuikov\ideal_chuikov\bin\Debug\EntityFramework.dll
+C:\Users\matve\Desktop\Без кнопок\Новая папка (3) — копия\ideal_chuikov\ideal_chuikov\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\matve\Desktop\Без кнопок\Новая папка (3) — копия\ideal_chuikov\ideal_chuikov\bin\Debug\EntityFramework.xml
+C:\Users\matve\Desktop\Без кнопок\Новая папка (3) — копия\ideal_chuikov\ideal_chuikov\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\matve\Desktop\Без кнопок\Новая папка (3) — копия\ideal_chuikov\ideal_chuikov\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\matve\Desktop\Без кнопок\Новая папка (3) — копия\ideal_chuikov\ideal_chuikov\obj\Debug\ideal_chuikov.csproj.AssemblyReference.cache
+C:\Users\matve\Desktop\Без кнопок\Новая папка (3) — копия\ideal_chuikov\ideal_chuikov\obj\Debug\MainWindow.g.cs
+C:\Users\matve\Desktop\Без кнопок\Новая папка (3) — копия\ideal_chuikov\ideal_chuikov\obj\Debug\OneOrder.g.cs
+C:\Users\matve\Desktop\Без кнопок\Новая папка (3) — копия\ideal_chuikov\ideal_chuikov\obj\Debug\OrdersWindow.g.cs
+C:\Users\matve\Desktop\Без кнопок\Новая папка (3) — копия\ideal_chuikov\ideal_chuikov\obj\Debug\Pages\Auth.g.cs
+C:\Users\matve\Desktop\Без кнопок\Новая папка (3) — копия\ideal_chuikov\ideal_chuikov\obj\Debug\Pages\EditMerch.g.cs
+C:\Users\matve\Desktop\Без кнопок\Новая папка (3) — копия\ideal_chuikov\ideal_chuikov\obj\Debug\Pages\EditOrders.g.cs
+C:\Users\matve\Desktop\Без кнопок\Новая папка (3) — копия\ideal_chuikov\ideal_chuikov\obj\Debug\Pages\merches.g.cs
+C:\Users\matve\Desktop\Без кнопок\Новая папка (3) — копия\ideal_chuikov\ideal_chuikov\obj\Debug\Pages\OrdersPages.g.cs
+C:\Users\matve\Desktop\Без кнопок\Новая папка (3) — копия\ideal_chuikov\ideal_chuikov\obj\Debug\Pages\Registration.g.cs
+C:\Users\matve\Desktop\Без кнопок\Новая папка (3) — копия\ideal_chuikov\ideal_chuikov\obj\Debug\Pages\RootMerch.g.cs
+C:\Users\matve\Desktop\Без кнопок\Новая папка (3) — копия\ideal_chuikov\ideal_chuikov\obj\Debug\Pages\TalonOrder.g.cs
+C:\Users\matve\Desktop\Без кнопок\Новая папка (3) — копия\ideal_chuikov\ideal_chuikov\obj\Debug\App.g.cs
+C:\Users\matve\Desktop\Без кнопок\Новая папка (3) — копия\ideal_chuikov\ideal_chuikov\obj\Debug\ideal_chuikov_Content.g.cs
+C:\Users\matve\Desktop\Без кнопок\Новая папка (3) — копия\ideal_chuikov\ideal_chuikov\obj\Debug\ideal_chuikov_MarkupCompile.cache
+C:\Users\matve\Desktop\Без кнопок\Новая папка (3) — копия\ideal_chuikov\ideal_chuikov\obj\Debug\ideal_chuikov_MarkupCompile.lref
+C:\Users\matve\Desktop\Без кнопок\Новая папка (3) — копия\ideal_chuikov\ideal_chuikov\obj\Debug\App.baml
+C:\Users\matve\Desktop\Без кнопок\Новая папка (3) — копия\ideal_chuikov\ideal_chuikov\obj\Debug\MainWindow.baml
+C:\Users\matve\Desktop\Без кнопок\Новая папка (3) — копия\ideal_chuikov\ideal_chuikov\obj\Debug\OneOrder.baml
+C:\Users\matve\Desktop\Без кнопок\Новая папка (3) — копия\ideal_chuikov\ideal_chuikov\obj\Debug\OrdersWindow.baml
+C:\Users\matve\Desktop\Без кнопок\Новая папка (3) — копия\ideal_chuikov\ideal_chuikov\obj\Debug\Pages\Auth.baml
+C:\Users\matve\Desktop\Без кнопок\Новая папка (3) — копия\ideal_chuikov\ideal_chuikov\obj\Debug\Pages\EditMerch.baml
+C:\Users\matve\Desktop\Без кнопок\Новая папка (3) — копия\ideal_chuikov\ideal_chuikov\obj\Debug\Pages\EditOrders.baml
+C:\Users\matve\Desktop\Без кнопок\Новая папка (3) — копия\ideal_chuikov\ideal_chuikov\obj\Debug\Pages\merches.baml
+C:\Users\matve\Desktop\Без кнопок\Новая папка (3) — копия\ideal_chuikov\ideal_chuikov\obj\Debug\Pages\OrdersPages.baml
+C:\Users\matve\Desktop\Без кнопок\Новая папка (3) — копия\ideal_chuikov\ideal_chuikov\obj\Debug\Pages\Registration.baml
+C:\Users\matve\Desktop\Без кнопок\Новая папка (3) — копия\ideal_chuikov\ideal_chuikov\obj\Debug\Pages\RootMerch.baml
+C:\Users\matve\Desktop\Без кнопок\Новая папка (3) — копия\ideal_chuikov\ideal_chuikov\obj\Debug\Pages\TalonOrder.baml
+C:\Users\matve\Desktop\Без кнопок\Новая папка (3) — копия\ideal_chuikov\ideal_chuikov\obj\Debug\ideal_chuikov.g.resources
+C:\Users\matve\Desktop\Без кнопок\Новая папка (3) — копия\ideal_chuikov\ideal_chuikov\obj\Debug\ideal_chuikov.Properties.Resources.resources
+C:\Users\matve\Desktop\Без кнопок\Новая папка (3) — копия\ideal_chuikov\ideal_chuikov\obj\Debug\ideal_chuikov.csproj.GenerateResource.cache
+C:\Users\matve\Desktop\Без кнопок\Новая папка (3) — копия\ideal_chuikov\ideal_chuikov\obj\Debug\ideal_chuikov.csproj.CoreCompileInputs.cache
+C:\Users\matve\Desktop\Без кнопок\Новая папка (3) — копия\ideal_chuikov\ideal_chuikov\obj\Debug\ideal_chuikov.csproj.CopyComplete
+C:\Users\matve\Desktop\Без кнопок\Новая папка (3) — копия\ideal_chuikov\ideal_chuikov\obj\Debug\ideal_chuikov.exe
+C:\Users\matve\Desktop\Без кнопок\Новая папка (3) — копия\ideal_chuikov\ideal_chuikov\obj\Debug\ideal_chuikov.pdb
+C:\Users\matve\Desktop\Готовая прога Чуйков\ideal_chuikov\ideal_chuikov\bin\Debug\ideal_chuikov.exe.config
+C:\Users\matve\Desktop\Готовая прога Чуйков\ideal_chuikov\ideal_chuikov\bin\Debug\ideal_chuikov.exe
+C:\Users\matve\Desktop\Готовая прога Чуйков\ideal_chuikov\ideal_chuikov\bin\Debug\ideal_chuikov.pdb
+C:\Users\matve\Desktop\Готовая прога Чуйков\ideal_chuikov\ideal_chuikov\bin\Debug\EntityFramework.dll
+C:\Users\matve\Desktop\Готовая прога Чуйков\ideal_chuikov\ideal_chuikov\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\matve\Desktop\Готовая прога Чуйков\ideal_chuikov\ideal_chuikov\bin\Debug\EntityFramework.xml
+C:\Users\matve\Desktop\Готовая прога Чуйков\ideal_chuikov\ideal_chuikov\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\matve\Desktop\Готовая прога Чуйков\ideal_chuikov\ideal_chuikov\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\matve\Desktop\Готовая прога Чуйков\ideal_chuikov\ideal_chuikov\obj\Debug\ideal_chuikov.csproj.AssemblyReference.cache
+C:\Users\matve\Desktop\Готовая прога Чуйков\ideal_chuikov\ideal_chuikov\obj\Debug\MainWindow.g.cs
+C:\Users\matve\Desktop\Готовая прога Чуйков\ideal_chuikov\ideal_chuikov\obj\Debug\OneOrder.g.cs
+C:\Users\matve\Desktop\Готовая прога Чуйков\ideal_chuikov\ideal_chuikov\obj\Debug\OrdersWindow.g.cs
+C:\Users\matve\Desktop\Готовая прога Чуйков\ideal_chuikov\ideal_chuikov\obj\Debug\Pages\Auth.g.cs
+C:\Users\matve\Desktop\Готовая прога Чуйков\ideal_chuikov\ideal_chuikov\obj\Debug\Pages\EditMerch.g.cs
+C:\Users\matve\Desktop\Готовая прога Чуйков\ideal_chuikov\ideal_chuikov\obj\Debug\Pages\EditOrders.g.cs
+C:\Users\matve\Desktop\Готовая прога Чуйков\ideal_chuikov\ideal_chuikov\obj\Debug\Pages\merches.g.cs
+C:\Users\matve\Desktop\Готовая прога Чуйков\ideal_chuikov\ideal_chuikov\obj\Debug\Pages\OrdersPages.g.cs
+C:\Users\matve\Desktop\Готовая прога Чуйков\ideal_chuikov\ideal_chuikov\obj\Debug\Pages\Registration.g.cs
+C:\Users\matve\Desktop\Готовая прога Чуйков\ideal_chuikov\ideal_chuikov\obj\Debug\Pages\RootMerch.g.cs
+C:\Users\matve\Desktop\Готовая прога Чуйков\ideal_chuikov\ideal_chuikov\obj\Debug\Pages\TalonOrder.g.cs
+C:\Users\matve\Desktop\Готовая прога Чуйков\ideal_chuikov\ideal_chuikov\obj\Debug\App.g.cs
+C:\Users\matve\Desktop\Готовая прога Чуйков\ideal_chuikov\ideal_chuikov\obj\Debug\ideal_chuikov_Content.g.cs
+C:\Users\matve\Desktop\Готовая прога Чуйков\ideal_chuikov\ideal_chuikov\obj\Debug\ideal_chuikov_MarkupCompile.cache
+C:\Users\matve\Desktop\Готовая прога Чуйков\ideal_chuikov\ideal_chuikov\obj\Debug\ideal_chuikov_MarkupCompile.lref
+C:\Users\matve\Desktop\Готовая прога Чуйков\ideal_chuikov\ideal_chuikov\obj\Debug\App.baml
+C:\Users\matve\Desktop\Готовая прога Чуйков\ideal_chuikov\ideal_chuikov\obj\Debug\MainWindow.baml
+C:\Users\matve\Desktop\Готовая прога Чуйков\ideal_chuikov\ideal_chuikov\obj\Debug\OneOrder.baml
+C:\Users\matve\Desktop\Готовая прога Чуйков\ideal_chuikov\ideal_chuikov\obj\Debug\OrdersWindow.baml
+C:\Users\matve\Desktop\Готовая прога Чуйков\ideal_chuikov\ideal_chuikov\obj\Debug\Pages\Auth.baml
+C:\Users\matve\Desktop\Готовая прога Чуйков\ideal_chuikov\ideal_chuikov\obj\Debug\Pages\EditMerch.baml
+C:\Users\matve\Desktop\Готовая прога Чуйков\ideal_chuikov\ideal_chuikov\obj\Debug\Pages\EditOrders.baml
+C:\Users\matve\Desktop\Готовая прога Чуйков\ideal_chuikov\ideal_chuikov\obj\Debug\Pages\merches.baml
+C:\Users\matve\Desktop\Готовая прога Чуйков\ideal_chuikov\ideal_chuikov\obj\Debug\Pages\OrdersPages.baml
+C:\Users\matve\Desktop\Готовая прога Чуйков\ideal_chuikov\ideal_chuikov\obj\Debug\Pages\Registration.baml
+C:\Users\matve\Desktop\Готовая прога Чуйков\ideal_chuikov\ideal_chuikov\obj\Debug\Pages\RootMerch.baml
+C:\Users\matve\Desktop\Готовая прога Чуйков\ideal_chuikov\ideal_chuikov\obj\Debug\Pages\TalonOrder.baml
+C:\Users\matve\Desktop\Готовая прога Чуйков\ideal_chuikov\ideal_chuikov\obj\Debug\ideal_chuikov.g.resources
+C:\Users\matve\Desktop\Готовая прога Чуйков\ideal_chuikov\ideal_chuikov\obj\Debug\ideal_chuikov.Properties.Resources.resources
+C:\Users\matve\Desktop\Готовая прога Чуйков\ideal_chuikov\ideal_chuikov\obj\Debug\ideal_chuikov.csproj.GenerateResource.cache
+C:\Users\matve\Desktop\Готовая прога Чуйков\ideal_chuikov\ideal_chuikov\obj\Debug\ideal_chuikov.csproj.CoreCompileInputs.cache
+C:\Users\matve\Desktop\Готовая прога Чуйков\ideal_chuikov\ideal_chuikov\obj\Debug\ideal_chuikov.csproj.CopyComplete
+C:\Users\matve\Desktop\Готовая прога Чуйков\ideal_chuikov\ideal_chuikov\obj\Debug\ideal_chuikov.exe
+C:\Users\matve\Desktop\Готовая прога Чуйков\ideal_chuikov\ideal_chuikov\obj\Debug\ideal_chuikov.pdb

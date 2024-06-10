@@ -17,6 +17,8 @@
     <Property Name="manufacturer" Type="nvarchar" MaxLength="50" Nullable="false" />
     <Property Name="price" Type="int" Nullable="false" />
     <Property Name="discount" Type="int" />
+    <Property Name="url" Type="nvarchar(max)" />
+    <Property Name="quantity" Type="int" />
   </EntityType>
   <EntityType Name="orders">
     <Key>
@@ -53,6 +55,16 @@
     </Key>
     <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
     <Property Name="status_name" Type="nvarchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="nvarchar" MaxLength="128" Nullable="false" />
+    <Property Name="principal_id" Type="int" Nullable="false" />
+    <Property Name="diagram_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="version" Type="int" />
+    <Property Name="definition" Type="varbinary(max)" />
   </EntityType>
   <EntityType Name="type_user">
     <Key>
@@ -148,6 +160,7 @@
     <EntitySet Name="point" EntityType="Self.point" Schema="dbo" store:Type="Tables" />
     <EntitySet Name="sostav" EntityType="Self.sostav" Schema="dbo" store:Type="Tables" />
     <EntitySet Name="status" EntityType="Self.status" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" Schema="dbo" store:Type="Tables" />
     <EntitySet Name="type_user" EntityType="Self.type_user" Schema="dbo" store:Type="Tables" />
     <EntitySet Name="users" EntityType="Self.users" Schema="dbo" store:Type="Tables" />
     <AssociationSet Name="FK_orders_point" Association="Self.FK_orders_point">

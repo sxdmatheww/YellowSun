@@ -17,6 +17,9 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using System.Text.RegularExpressions;
+using System.Collections.ObjectModel;
+using System.Data.Entity.Validation;
 
 namespace ideal_chuikov.Pages
 {
@@ -31,8 +34,10 @@ namespace ideal_chuikov.Pages
         private bool flag = false;
         private merch currentmerch = new merch();
         public EditMerch(merch sellectedMerch)
+
         {
             InitializeComponent();
+
             if (sellectedMerch != null)
             {
                 currentmerch = sellectedMerch;
@@ -41,24 +46,26 @@ namespace ideal_chuikov.Pages
 
         }
 
+
+
         private void Save(object sender, RoutedEventArgs e)
         {
             StringBuilder errors = new StringBuilder();
             if (string.IsNullOrWhiteSpace(currentmerch.name))
-                errors.AppendLine("Укажите название");
+                errors.AppendLine("Укажите название!");
             if (string.IsNullOrWhiteSpace(currentmerch.dexcription))
-                errors.AppendLine("Укажите описание");
+                errors.AppendLine("Укажите описание!");
             if (string.IsNullOrWhiteSpace(currentmerch.manufacturer))
-                errors.AppendLine("Укажите производителя");
+                errors.AppendLine("Укажите производителя!");
+            if (currentmerch.quantity < 0)
+                errors.AppendLine("Количество товара не может быть отрицательным!");
+
             if (errors.Length > 0)
             {
                 MessageBox.Show(errors.ToString(), "Ошибка", MessageBoxButton.OK, MessageBoxImage.Error);
+                return;
             }
-            if (currentmerch.id == 0)
-            {
-                yellowsEntities2.GetContext().merch.Add(currentmerch);
 
-            }
             DbContextTransaction dbContextTransaction = null;
 
             try
@@ -76,21 +83,22 @@ namespace ideal_chuikov.Pages
                 dbContextTransaction.Commit();
                 Manager.MainFrame.GoBack();
             }
-            catch (DbUpdateException ex)
+            catch (DbEntityValidationException ex)
             {
                 if (dbContextTransaction != null)
                 {
                     dbContextTransaction.Rollback();
                 }
 
-                var innerException = ex.InnerException;
-                while (innerException != null)
+                foreach (var validationError in ex.EntityValidationErrors)
                 {
-                    MessageBox.Show($"Внутреннее исключение: {innerException.Message}");
-                    innerException = innerException.InnerException;
+                    foreach (var error in validationError.ValidationErrors)
+                    {
+                        MessageBox.Show($"Property: {error.PropertyName} Error: {error.ErrorMessage}");
+                    }
                 }
 
-                MessageBox.Show("Ошибка при сохранении изменений. Дополнительные сведения в внутреннем исключении.");
+                MessageBox.Show("Ошибка при сохранении изменений. Проверьте данные и попробуйте снова.");
             }
             catch (Exception ex)
             {
