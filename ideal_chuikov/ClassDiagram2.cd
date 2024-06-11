@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ideal_chuikov.Classes.Connect" Collapsed="true">
+    <Position X="15.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Connect.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Object" Collapsed="true">
+    <Position X="9.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="ideal_chuikov.Models.yellowsEntities2" Collapsed="true">
+    <Position X="22.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAQCAACBAAAAAAAAAAAAAAAAEAAAAAAAICAAEIAACAA=</HashCode>
+      <FileName>Models\Model1.Context.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ideal_chuikov.Models.merch" Collapsed="true">
+    <Position X="19" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgEBAAAIIACAAAABIAAAAAAAgAAMAACAAAAAAIIAAgA=</HashCode>
+      <FileName>Models\merch.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ideal_chuikov.Models.orders" Collapsed="true">
+    <Position X="20.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAQAAACAAAAAEAAAAAAAAAQAIAAQCAEAAAAAAIIAAgA=</HashCode>
+      <FileName>Models\orders.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ideal_chuikov.Models.point" Collapsed="true">
+    <Position X="12.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABIAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Models\point.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ideal_chuikov.Models.sostav" Collapsed="true">
+    <Position X="23.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABIAAEAAAABAAAAAAAAAAAAAAAAAAAAAAACAA=</HashCode>
+      <FileName>Models\sostav.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ideal_chuikov.Models.status" Collapsed="true">
+    <Position X="22.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Models\status.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ideal_chuikov.Models.sysdiagrams" Collapsed="true">
+    <Position X="14.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAIAAAAAAAAAAAAAAAQAAAFAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\sysdiagrams.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ideal_chuikov.Models.type_user" Collapsed="true">
+    <Position X="18" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Models\type_user.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ideal_chuikov.Models.users" Collapsed="true">
+    <Position X="24.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAAAAAAAAAAAAAAAACAAAIAAAAgAAEgA=</HashCode>
+      <FileName>Models\users.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ideal_chuikov.Classes.CurrentUser" Collapsed="true">
+    <Position X="16.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\CurrentUser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ideal_chuikov.Classes.Manager" Collapsed="true">
+    <Position X="21.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAgAAAAAAAAA=</HashCode>
+      <FileName>Classes\Manager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ideal_chuikov.Properties.Resources" Collapsed="true">
+    <Position X="13.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

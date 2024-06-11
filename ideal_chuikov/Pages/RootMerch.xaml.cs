@@ -89,11 +89,6 @@ namespace ideal_chuikov.Pages
             }
         }
 
-
-
-
-
-
         private void RefreshPage()
         {
             try
@@ -120,6 +115,18 @@ namespace ideal_chuikov.Pages
         {
             Manager.MainFrame.Navigate(new Registration());
         }
+        private void SaveChanges()
+        {
+            try
+            {
+                yellowsEntities2.GetContext().SaveChanges();
+                RefreshPage(); // Обновление страницы после сохранения изменений
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Ошибка при сохранении данных: " + ex.Message);
+            }
+        }
 
         private void IncreaseQuantity(object sender, RoutedEventArgs e)
         {
@@ -138,19 +145,6 @@ namespace ideal_chuikov.Pages
             {
                 item.quantity--;
                 SaveChanges();
-            }
-        }
-
-        private void SaveChanges()
-        {
-            try
-            {
-                yellowsEntities2.GetContext().SaveChanges();
-                RefreshPage(); // Обновление страницы после сохранения изменений
-            }
-            catch (Exception ex)
-            {
-                MessageBox.Show("Ошибка при сохранении данных: " + ex.Message);
             }
         }
 

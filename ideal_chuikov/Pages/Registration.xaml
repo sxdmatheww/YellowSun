@@ -10,14 +10,15 @@
 
     <Grid>
         <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center">
-            <TextBlock HorizontalAlignment="Center" FontSize="25">Регистрация</TextBlock>
-            <TextBlock HorizontalAlignment="Center">Логин</TextBlock>
-            <TextBox Name="Login"></TextBox>
-            <TextBlock HorizontalAlignment="Center">Пароль</TextBlock>
-            <PasswordBox Name="Password"></PasswordBox>
-            <TextBlock HorizontalAlignment="Center">Подтвердите пароль</TextBlock>
-            <PasswordBox Name="ConfirmPassword"></PasswordBox>
+            <TextBlock HorizontalAlignment="Center" FontSize="40">Регистрация</TextBlock>
+            <TextBlock HorizontalAlignment="Center" FontSize="30">Логин</TextBlock>
+            <TextBox FontSize="17" Height="25" Name="Login"></TextBox>
+            <TextBlock HorizontalAlignment="Center" FontSize="30">Пароль</TextBlock>
+            <PasswordBox FontSize="17" Height="25" Name="Password"></PasswordBox>
+            <TextBlock HorizontalAlignment="Center" FontSize="30">Подтвердите пароль</TextBlock>
+            <PasswordBox FontSize="17" Height="25" Name="ConfirmPassword"></PasswordBox>
             <Button Click="Registraciya_Click" Width="210">Зарегистрироваться</Button>
+            <Button Width="100" Content="Назад" Click="GoBack_Click" Background="#363636"/>
         </StackPanel>
     </Grid>
 </Page>

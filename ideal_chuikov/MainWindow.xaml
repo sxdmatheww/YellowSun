@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:ideal_chuikov"
         mc:Ignorable="d"
-        Title="Учёт товаров ''Жёлтое солнце''" MinHeight="650" MinWidth="1500">
+        Title="Учёт товаров ''Жёлтое солнце''" MinHeight="650" MinWidth="1300">
     <Grid ShowGridLines="True">
         <Grid.RowDefinitions>
             <RowDefinition Height="100" ></RowDefinition>

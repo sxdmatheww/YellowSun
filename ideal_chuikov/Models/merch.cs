@@ -12,6 +12,7 @@ namespace ideal_chuikov.Models
     using System;
     using System.Collections.Generic;
     using System.ComponentModel;
+    using System.Windows;
 
     public partial class merch
     {
@@ -47,6 +48,12 @@ namespace ideal_chuikov.Models
             get { return _discount; }
             set
             {
+                if (value > 99)
+                {
+                    MessageBox.Show("Скидка не может быть больше 99%", "Ошибка", MessageBoxButton.OK, MessageBoxImage.Warning);
+                    return;
+                }
+
                 if (_discount != value)
                 {
                     _discount = value;

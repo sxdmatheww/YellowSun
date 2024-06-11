@@ -14,9 +14,9 @@
             
             <TextBlock FontSize="40">Авторизация</TextBlock>
             <TextBlock FontSize="30" HorizontalAlignment="Center">Логин</TextBlock>
-            <TextBox Height="25" Name="Login"></TextBox>
+            <TextBox FontSize="17" Height="25" Name="Login"></TextBox>
             <TextBlock FontSize="30" HorizontalAlignment="Center">Пароль</TextBlock>
-            <PasswordBox Height="25" Name="Password"></PasswordBox>
+            <PasswordBox FontSize="17" Height="25" Name="Password"></PasswordBox>
             
             <Button Click="Vxod" Name="vxodbnt">Войти</Button>
         </StackPanel>

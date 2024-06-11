@@ -78,13 +78,15 @@
                 <!--Количество-->
                 <DataGridTemplateColumn MinWidth="170" MaxWidth="170">
                     <DataGridTemplateColumn.Header>
-                        <TextBlock Text="Количество:" Foreground="Black" FontSize="20" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+                        <TextBlock Text="Количество:" Foreground="Black" FontSize="20" VerticalAlignment="Center" 
+                                   HorizontalAlignment="Center"/>
                     </DataGridTemplateColumn.Header>
                     <DataGridTemplateColumn.CellTemplate>
                         <DataTemplate>
                             <StackPanel Orientation="Horizontal">
                                 <Button Content="-" Width="40" Height="40" Click="DecreaseQuantity"/>
-                                <TextBlock Text="{Binding quantity}" Style="{StaticResource kolvo}" Width="50" HorizontalAlignment="Center" VerticalAlignment="Center" TextAlignment="Center"/>
+                                <TextBlock Text="{Binding quantity}" Style="{StaticResource kolvo}" Width="50" 
+                                           HorizontalAlignment="Center" VerticalAlignment="Center" TextAlignment="Center"/>
                                 <Button Content="+" Width="40" Height="40" Click="IncreaseQuantity"/>
                             </StackPanel>
                         </DataTemplate>

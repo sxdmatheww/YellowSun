@@ -45,7 +45,13 @@ namespace ideal_chuikov.Pages
             DataContext = currentmerch;
 
         }
-
+        private void GoBack_Click(object sender, RoutedEventArgs e)
+        {
+            if (NavigationService.CanGoBack)
+            {
+                NavigationService.GoBack();
+            }
+        }
 
 
         private void Save(object sender, RoutedEventArgs e)

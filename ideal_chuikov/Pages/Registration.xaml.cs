@@ -27,6 +27,13 @@ namespace ideal_chuikov.Pages
             InitializeComponent();
             Connect.modeldb = new Models.yellowsEntities2();
         }
+        private void GoBack_Click(object sender, RoutedEventArgs e)
+        {
+            if (NavigationService.CanGoBack)
+            {
+                NavigationService.GoBack();
+            }
+        }
 
         private void Registraciya_Click(object sender, RoutedEventArgs e)
         {
@@ -89,6 +96,7 @@ namespace ideal_chuikov.Pages
                 MessageBox.Show("Ошибка при регистрации: " + sb.ToString(), "Ошибка при регистрации",
                                 MessageBoxButton.OK, MessageBoxImage.Error);
             }
+
         }
     }
 }
